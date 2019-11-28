@@ -1,2 +1,2 @@
 # bookmanagement
-c++의 MFC를 이용한 개인 프로젝트
+C++ MFC를 이용한 개인 프로젝트
